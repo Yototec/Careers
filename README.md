@@ -14,4 +14,4 @@
 
  **If you are interested in joining us, please send your resume to info@yototec.com**
 
-*Please note: Quantitative Trader (Crypto & DeFi) is **NOT** applicable to residence of mainland China*
+*Please note: due to local regulation, Quantitative Trader (Crypto & DeFi) is **NOT** applicable to residence of mainland China*
